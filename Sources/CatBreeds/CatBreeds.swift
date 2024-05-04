@@ -5,7 +5,7 @@ import Foundation
 
 
 
-public class PacketCats {
+public class BreedPacket {
 
     public enum NetworkError: Error {
         case decodeError
